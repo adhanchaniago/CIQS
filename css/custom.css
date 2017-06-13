@@ -1,0 +1,11 @@
+/* LOGIN */
+.form-signin{
+	max-width:330px;margin:0 auto;
+	padding:15px 28px 15px 15px; 
+}
+.login-title{
+	color:#555;font-size:18px;font-weight:400;display:block;
+}
+.form-signin input {
+	width:100%;
+}
