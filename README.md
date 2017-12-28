@@ -28,4 +28,4 @@ the application have 5 level user:
  6. a_market login into application and check payment into bank portal. if they already pay it, and then a_market will approve bootcamp
     registration and make schedule when he will attend also date time and location. then will automatically send to mitra email.
     
-    =========================TO BE CONTINUED====================================================================================
+    =========================TO BE CONTINUED===========================
